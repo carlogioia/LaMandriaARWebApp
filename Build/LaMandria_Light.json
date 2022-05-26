@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ARWT",
+"productVersion": "0.1",
+"dataUrl": "LaMandria_Light.data.unityweb",
+"wasmCodeUrl": "LaMandria_Light.wasm",
+"wasmFrameworkUrl": "LaMandria_Light.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
